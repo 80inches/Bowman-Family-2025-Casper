@@ -13,7 +13,7 @@ fetch('data/itinerary.json')
 
     function showDay(index) {
       const day = data[index];
-      content.innerHTML = `<h2>${day.day} - ${day.date}</h2>` +
+      content.innerHTML = `<h2>${day.day}</h2>` +
         day.activities.map(act => `
           <div class="activity">
             <p><strong>${act.time}</strong>: ${act.event}</p>
