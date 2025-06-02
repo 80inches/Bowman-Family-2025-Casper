@@ -25,3 +25,22 @@ section {
 h2 {
   color: #005f73;
 }
+
+
+/* Tabs container (ul element) */
+#day-tabs {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 10px;
+}
+
+/* Each tab (li element) */
+#day-tabs li {
+  padding: 10px 20px;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
