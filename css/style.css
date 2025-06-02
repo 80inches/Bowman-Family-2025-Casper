@@ -38,7 +38,7 @@ h2 {
 /* Each tab (li element) */
 #day-tabs li {
   padding: 10px 20px;
-  background-color: #ffffff;
+  background-color: #005f73;
   border: 1px solid #ccc;
   border-radius: 8px;
   cursor: pointer;
