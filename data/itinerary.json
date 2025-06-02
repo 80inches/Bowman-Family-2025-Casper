@@ -1,0 +1,32 @@
+[
+  {
+    "day": "Day 1",
+    "date": "2025-07-10",
+    "activities": [
+      {
+        "time": "9:00 AM",
+        "event": "Depart from home",
+        "location": "123 Home St.",
+        "map": "https://maps.google.com/?q=123+Home+St"
+      },
+      {
+        "time": "12:00 PM",
+        "event": "Lunch at Joe's Diner",
+        "location": "456 Food Rd.",
+        "map": "https://maps.google.com/?q=456+Food+Rd"
+      }
+    ]
+  },
+  {
+    "day": "Day 2",
+    "date": "2025-07-11",
+    "activities": [
+      {
+        "time": "10:00 AM",
+        "event": "Visit National Park",
+        "location": "Park Entrance",
+        "map": "https://maps.google.com/?q=National+Park"
+      }
+    ]
+  }
+]
